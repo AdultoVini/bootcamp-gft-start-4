@@ -1,0 +1,15 @@
+C:\Users\vini3\Desktop\Repositórios\bootcamp-gft-start-4\Ex4\bin\Debug\net6.0\Ex4.exe
+C:\Users\vini3\Desktop\Repositórios\bootcamp-gft-start-4\Ex4\bin\Debug\net6.0\Ex4.deps.json
+C:\Users\vini3\Desktop\Repositórios\bootcamp-gft-start-4\Ex4\bin\Debug\net6.0\Ex4.runtimeconfig.json
+C:\Users\vini3\Desktop\Repositórios\bootcamp-gft-start-4\Ex4\bin\Debug\net6.0\Ex4.dll
+C:\Users\vini3\Desktop\Repositórios\bootcamp-gft-start-4\Ex4\bin\Debug\net6.0\ref\Ex4.dll
+C:\Users\vini3\Desktop\Repositórios\bootcamp-gft-start-4\Ex4\bin\Debug\net6.0\Ex4.pdb
+C:\Users\vini3\Desktop\Repositórios\bootcamp-gft-start-4\Ex4\obj\Debug\net6.0\Ex4.csproj.AssemblyReference.cache
+C:\Users\vini3\Desktop\Repositórios\bootcamp-gft-start-4\Ex4\obj\Debug\net6.0\Ex4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vini3\Desktop\Repositórios\bootcamp-gft-start-4\Ex4\obj\Debug\net6.0\Ex4.AssemblyInfoInputs.cache
+C:\Users\vini3\Desktop\Repositórios\bootcamp-gft-start-4\Ex4\obj\Debug\net6.0\Ex4.AssemblyInfo.cs
+C:\Users\vini3\Desktop\Repositórios\bootcamp-gft-start-4\Ex4\obj\Debug\net6.0\Ex4.csproj.CoreCompileInputs.cache
+C:\Users\vini3\Desktop\Repositórios\bootcamp-gft-start-4\Ex4\obj\Debug\net6.0\Ex4.dll
+C:\Users\vini3\Desktop\Repositórios\bootcamp-gft-start-4\Ex4\obj\Debug\net6.0\ref\Ex4.dll
+C:\Users\vini3\Desktop\Repositórios\bootcamp-gft-start-4\Ex4\obj\Debug\net6.0\Ex4.pdb
+C:\Users\vini3\Desktop\Repositórios\bootcamp-gft-start-4\Ex4\obj\Debug\net6.0\Ex4.genruntimeconfig.cache
