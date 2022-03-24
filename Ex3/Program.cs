@@ -20,7 +20,7 @@ for (int i = 0; i < 10; i++)
     {
         trintaAnos.Add(peso);
     }
-    else if(idade > 31)
+    else if(idade >= 31)
     {
         trintaMaisAnos.Add(peso);
     }
